@@ -1,0 +1,10 @@
+# files
+__pycache__
+*.log
+*.pyc
+
+# virtual env
+venv/
+
+# local files
+.env
